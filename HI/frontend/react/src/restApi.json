@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image":  "./quality_food.svg",
+          "title": "PREMIUM FABRICS",
+          "description": "Only the finest, breathable materials for all-day confidence and comfort."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "MODERN FIT",
+          "description": "Tailored silhouettes designed to elevate your everyday look."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "STYLE FIRST",
+          "description": "From boardroom to rooftop — look sharp without trying too hard."
+        }
+      ],
+      "products": [
+        {
+          "id": 1, 
+          "image":"/dinner1.jpeg",
+          "title": "Classic Black Blazer",
+          "category": "Formal"
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "Minimalist Hoodie",
+          "category": "Casual"
+        },
+        {
+          "id": 3,
+          "image":"./breakfast1.png",
+          "title": "Faded Denim Jacket",
+          "category": "Streetwear"
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "Slim Fit White Shirt",
+          "category": "Office Wear"
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "Athleisure Tracksuit",
+          "category": "Activewear"
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "Vintage Leather Jacket",
+          "category": "Streetwear"
+        },
+        {
+          "id": 7,
+          "image":  "./dinner5.png",
+          "title": "Checked Casual Shirt",
+          "category": "Casual"
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "Graphic Summer Tee",
+          "category": "Casual"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.png",
+          "name": "varun dev",
+          "designation": "Founder & Creative Director&CEO"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "anirudh",
+          "designation": " Fashion Designer"
+        },
+        {
+          "id": 3,
+          "image":"./team_member_3.png",
+          "name": "Suraj",
+          "designation": "Men's Style Expert"
+        },
+        {
+          "id": 4,
+          "image":"./team_member_4.png",
+          "name": "nikhil",
+          "designation": "Brand & Marketing Head"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image":  "./review1.png",
+          "description": "The fit and fabric are unmatched. I feel confident every time I wear their clothes!",
+          "rating": 5,
+          "userName": "David Stone"
+        },
+        {
+          "id": 2,
+          "image":  "./review2.png",
+          "description": "From casual tees to blazers, everything feels premium. Quick delivery too!",
+          "rating": 4.5,
+          "userName": "Marcus Lee"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "Great modern cuts and excellent styling tips. This brand gets men’s fashion right.",
+          "rating": 5,
+          "userName": "Rohan Sethi"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "10",
+          "title": "Years of Styling"
+        },
+        {
+          "id": 2,
+          "number": "250+",
+          "title": "Products Designed"
+        },
+        {
+          "id": 3,
+          "number": "35",
+          "title": "Fashion Experts"
+        },
+        {
+          "id": 4,
+          "number": "20K+",
+          "title": "Happy Customers"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "COLLECTIONS",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "REVIEWS",
+          "link": "reservation"
+        }
+        
+      ]
+    }
+  ]
+}
